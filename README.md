@@ -1,2 +1,0 @@
-# covid-checker
-# covid-checker
